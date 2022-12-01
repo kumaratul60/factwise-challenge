@@ -1,0 +1,6 @@
+.MuiDialog-paperScrollPaper {
+  border: 2px solid #c4c4c8;
+  border-radius: 20px !important;
+  width: 50%;
+  min-height: 20vh;
+}
